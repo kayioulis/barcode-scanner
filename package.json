@@ -1,6 +1,6 @@
 {
-  "name": "@capacitor-community/barcode-scanner",
-  "version": "4.0.1",
+  "name": "spare-capacitor-barcode-scanner",
+  "version": "6.0.2",
   "description": "A fast and efficient (QR) barcode scanner for Capacitor",
   "main": "dist/plugin.cjs.js",
   "module": "dist/esm/index.js",
@@ -11,9 +11,9 @@
     "android/build.gradle",
     "dist/",
     "ios/Plugin/",
-    "CapacitorCommunityBarcodeScanner.podspec"
+    "SpareCapacitorBarcodeScanner.podspec"
   ],
-  "author": "tafelnl",
+  "author": "Mohamad Tawakol",
   "license": "MIT",
   "repository": {
     "type": "git",
